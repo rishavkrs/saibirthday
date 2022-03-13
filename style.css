@@ -73,6 +73,8 @@
     text-align: center;
     text-shadow: 2px;
     text-decoration: aqua;
+     font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #image1{
     height: 300px;
